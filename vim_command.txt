@@ -26,6 +26,8 @@ v: selezione a carattere
 u: torna in dietro con le modifiche 
 shift + a: fine riga con insert mode e spazio dopo l'ultimo carattere
 shift + i: inizio riga con insert mode e spazio dopo l'inizio 
+i{: Selezionare l'interno delle parentesi escluse le parentesi
+a{: // Comprese le parentesi
 #Personali
 Space: Salva :w
 Ctrl - f: Esci 
