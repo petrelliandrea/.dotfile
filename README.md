@@ -1,1 +1,1 @@
-# config-nvim
+# dotfile for vim and tmux 
