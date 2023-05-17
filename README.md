@@ -1,5 +1,5 @@
 # dotfile 
 
-##neovim 
-##i3 
+## neovim 
+## i3 
 
