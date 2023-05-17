@@ -1,4 +1,4 @@
-#dotfile 
+# dotfile 
 
 - neovim
 - i3
