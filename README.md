@@ -1,1 +1,4 @@
-# dotfile home
+# dotfile 
+##neovim 
+##i3 
+
