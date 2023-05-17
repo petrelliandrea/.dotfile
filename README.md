@@ -1,1 +1,1 @@
-# dotfile for vim and tmux 
+# dotfile home
